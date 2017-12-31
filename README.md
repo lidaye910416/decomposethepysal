@@ -1,2 +1,3 @@
 # decomposethepysal
 拆轮子
+这个项目是为了学习使用github与写出更为pythonic的代码而建立的。
