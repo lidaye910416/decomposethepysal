@@ -3,7 +3,7 @@
 ## 这个项目是为了学习使用github与写出更为pythonic的代码而建立的。
 ## 这里我先读一下我使用最多的bivariate local mran I
 先贴一张大神的照片
-![pics/anselin.jpeg]()
+![./pics/anselin.jpeg]()
 
 
 class Moran_Local_BV(object):
